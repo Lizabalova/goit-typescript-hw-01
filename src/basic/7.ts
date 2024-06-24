@@ -14,7 +14,7 @@ interface Details {
 const page1: Page = {
   title: "The awesome page",
   likes: 100,
-  accounts: ["Lia", "Anton", "Alex"],
+  accounts: ["Max", "Anton", "Nikita"],
   status: "open",
   details: {
     createAt: new Date("2021-01-01"),

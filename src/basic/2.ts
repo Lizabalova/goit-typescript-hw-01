@@ -1,2 +1,2 @@
 let person: [string, number];
-person = ["Liza", 26];
+person = ["Max", 21];
